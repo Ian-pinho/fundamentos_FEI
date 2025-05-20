@@ -1,8 +1,8 @@
-Binks no Sake,Eichiro Oda,1,2
+Binks no Sake,Eichiro Oda,0,0
 Bohemian Rhapsody,Queen,0,0
 Like Him,Tyler The Creator,0,0
 Lonely Day,System of a Down,0,0
-Run,Joji,2,1
+Run,Joji,0,0
 SPECIALZ,King Gnu,0,0
 Blue Bird,Ikimono-gakari,0,0
 Guren no Yumiya,Linked Horizon,0,0

@@ -6,11 +6,6 @@ Usuarios = "usuarios.txt"
 Musicas = "musicas.txt"
 Historico = "historico.txt"
 
-# Inicializa os arquivos caso não existam
-for arquivo in [Usuarios, Musicas, Historico]:
-    if not os.path.exists(arquivo):
-        open(arquivo, "w").close()
-
 # Menu principal
 menu_principal = {
     1: "Registrar novo usuário",
